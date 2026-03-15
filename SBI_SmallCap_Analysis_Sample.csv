@@ -1,0 +1,48 @@
+MF Analysis Platform — Sample Export
+Fund: SBI Small Cap Fund - Direct Plan - Growth
+Scheme Code: 125497 | Category: Equity Scheme - Small Cap Fund
+Fund House: SBI Mutual Fund | Inception: 18 Nov 2013
+Data as of: 15 Mar 2026 | Source: AMFI via mfapi.in
+
+=== KEY METRICS ===
+Metric,Value,Notes
+CAGR (Inception),23.38%,18 Nov 2013 → 15 Mar 2026 (12.3 years)
+1Y CAGR,2.07%,Trailing 12 months
+2Y CAGR,2.31%,Trailing 24 months
+3Y CAGR,12.32%,Trailing 36 months
+5Y CAGR,14.36%,Trailing 60 months
+Max Drawdown,-40.26%,Peak: Jan 2018 → Trough: 24 Mar 2020
+Current DD from ATH,-18.96%,ATH: ₹214.677 on 15 Oct 2024
+Sharpe Ratio,1.07,rf = 6.5% p.a.
+Sortino Ratio,1.52,Downside deviation only
+Calmar Ratio,0.58,CAGR / Max DD
+Ann. Std Dev,15.1%,Annualised daily volatility
+Latest NAV,₹173.975,As of 13 Mar 2026
+ATH NAV,₹214.677,15 Oct 2024
+Total Records,3039,Trading days since inception
+
+=== COMPOSITE SCORE ===
+Parameter,Weight,Score (0-10),Weighted,Evidence
+Rolling Consistency,15%,8.5,1.27,1Y: 83.8% positive (558 windows); 3Y: 100%; 5Y: 100%
+Risk Management,15%,5.5,0.82,Max DD: -40.26%; Sharpe: 1.07; Sortino: 1.52; Calmar: 0.58
+Return Quality (Absolute),15%,8.0,1.20,CAGR inception: 23.38%; 1Y: 2.07%; 3Y: 12.32%; 5Y: 14.36%
+SIP Investor Experience,15%,8.5,1.27,"5Y SIP: best=29.0%, worst=1.6%, median=21.6%, 71% cohorts >15% XIRR"
+Drawdown Recovery Speed,10%,4.5,0.45,19 episodes (>-5%); 18 recovered; avg 138 days; 1 ongoing (-22.42%)
+Annual Return Consistency,10%,7.5,0.75,11/14 positive years (78.6%)
+Volatility-Adjusted Returns,10%,7.5,0.75,Sharpe 1.07; Sortino 1.52; Calmar 0.58; Ann Std Dev 15.1%
+Data Completeness,10%,9.0,0.90,3039 records / ~3103 expected (97.9%)
+TOTAL,100%,7.42,7.42/10,Verdict: Continue SIP
+
+=== VERDICT ===
+Score,7.42 / 10
+Verdict,Continue SIP
+Stage,DEEP CORRECTION — LUMPSUM OPPORTUNITY
+Quality Gate,"FAIL (score 74/100, needs ≥70 for Strong Buy; passes for SIP)"
+Price Gate,PASS (current DD -18.96% ≥ -22% Small Cap trigger)
+Lumpsum Decision,LUMPSUM OPPORTUNITY — Fund down >15% from ATH with strong long-term Sharpe. Consider deploying in tranches over 2-4 weeks.
+
+=== MARKET CONTEXT ===
+Fund DD from ATH,-19.0%
+Index DD from ATH (Nifty 500 TRI proxy),-9.5%
+Divergence (Fund - Index),-9.5%
+Verdict,Fund-Specific Issue — Fund fell significantly more than index. Investigate before deploying lumpsum.
